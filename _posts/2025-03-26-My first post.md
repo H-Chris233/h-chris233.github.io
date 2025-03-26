@@ -16,7 +16,7 @@ This is my first post...(废话
 
 图像测试~
 
-![img-description](/Image.jpg)
+![img-description](/image.jpg)
 _My Her_
 
 ![Light mode only](/light-mode.png){: .light }
