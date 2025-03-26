@@ -5,7 +5,7 @@ categories: [Test, Post]
 tags: [test]     # TAG names should always be lowercase
 author: Chris233
 description: Chris233's first post, for testing.
-media_subpath: /assets/img/posts/2025-03-26-My first post/
+media_subpath: /assets/img/posts/2025-03-26-My-first-post/
 ---
 
 HeHeHe!
